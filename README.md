@@ -15,6 +15,7 @@ This is a simple currency converter application that allows users to convert bet
 - Allows users to convert between different currencies.
 - Default currency set to USD but can be changed by the user.
 - Simple and user-friendly interface.
+- **Language Support**: Users can switch between **English and Turkish** by clicking on the respective country flags (UK and Turkey).
 
 ## How to Use
 1. Clone the repository:
@@ -23,6 +24,7 @@ This is a simple currency converter application that allows users to convert bet
    ```
 2. Open the `index.html` file in your browser.
 3. Select the currencies and enter the amount to convert.
+4. Click on the **UK flag** for English or the **Turkey flag** for Turkish.
 
 ## API Information
 This project uses [FreeCurrencyAPI](https://freecurrencyapi.com/) to fetch real-time exchange rates.
@@ -35,4 +37,6 @@ This project uses [FreeCurrencyAPI](https://freecurrencyapi.com/) to fetch real-
 ## Contributing
 If you would like to contribute, feel free to fork the repository and submit a pull request.
 
+## License
+This project is licensed under the MIT License.
 
